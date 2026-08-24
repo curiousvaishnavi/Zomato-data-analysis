@@ -18,12 +18,14 @@ The analysis focuses on understanding restaurant performance and deriving action
 
 ## 📁 Project Structure
 
+```text
 zomato-data-analysis/
 │
 ├── Zomato_EDA.ipynb       # Exploratory Data Analysis notebook
 ├── zomato.csv             # Original/raw dataset
 ├── zomato_clean.csv       # Cleaned dataset
 └── README.md              # Project documentation
+```
 
 
 ## 🛠️ Technologies Used
